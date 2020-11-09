@@ -14,3 +14,5 @@ The link to the dataset is https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVP
 5. Dropout layers were added for regularization and to prevent overfitting.
 6. The model predicted the value of steering angle in radians so later it was converted back to degrees.
 
+# Final Outcome
+![](ezgif.com-video-to-gif.gif)
